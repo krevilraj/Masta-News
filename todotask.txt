@@ -1,0 +1,30 @@
+Homepage:
+1.Logo
+2.top - Ad
+3.sidbar - ad			X
+4.middle - ad			X
+5.read more style
+6.view count			X
+7.mukhya taja lokpriya		X
+8.footer
+
+Archive page
+9.pagination
+10.sidebar
+11.share this
+12.Ad
+13.view count
+
+
+Detail Page
+14.view count
+15. category
+16.sidebar(share this, ad)
+17.you may also like
+18. comment section
+
+Contact page
+Video page
+
+
+
